@@ -25,7 +25,6 @@ Live in Seoul, South Korea <br/>
 - Computer Vision
 - Human Pose Estimation
 - Multimodal
-- Reinforcement Learning
 - Business
 - Sports
 - Music
