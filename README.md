@@ -21,6 +21,7 @@ Undergraduate Student at Konkuk University, Majoring in Applied Statistics and C
 Live in Seoul, South Korea <br/>  
 <a href="mailto:sohn.soyeong@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/soyeongsohn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://velog.io/@soyeong2"><img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat-square&logoColor=white"/></a>
 #### Interests
 - Computer Vision
 - Human Pose Estimation
