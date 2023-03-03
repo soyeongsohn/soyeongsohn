@@ -43,4 +43,4 @@ Live in Seoul, South Korea <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeongsohn&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={soyeong2})](https://solved.ac/{soyeong2})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={soyeong2})](https://solved.ac/soyeong2)
