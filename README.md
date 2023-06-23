@@ -28,7 +28,6 @@ Live in Seoul, South Korea <br>
 - Computer Vision
 - Human Pose Estimation
 - Multimodal
-- Business
 - Sports
 - Music
 <br/>
@@ -42,7 +41,7 @@ Live in Seoul, South Korea <br>
 <!--
 [![Soyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyeongsohn&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
--->
+
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyeongsohn&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
@@ -50,3 +49,4 @@ Live in Seoul, South Korea <br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soyeong2)](https://solved.ac/soyeong2)
+-->
