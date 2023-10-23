@@ -26,7 +26,7 @@ Live in Seoul, South Korea <br>
 <a href="https://velog.io/@soyeong2"><img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat-square&logoColor=white"/></a>
 #### Interests
 - Computer Vision
-- Human Pose Estimation
+- Video Understanding
 - Multimodal
 - Sports
 - Music
