@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About me
 #### Soyeong Sohn
-M.S student at Dept of Artificial Intelligence Application, Hanyang University, Machine Learning Lab(<br/>
+M.S student at Dept of Artificial Intelligence Application, Hanyang University, Machine Learning Lab<br/>
 B.S. at Dept of Applied Statistics and Computer Science(double major), Konkuk University, Seoul, South Korea<br/>
 Live in Seoul, South Korea <br>  
 
