@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ### About me
 #### Soyeong Sohn
-Undergraduate Student at Konkuk University, Majoring in Applied Statistics and Computer Science  <br/>
+M.S student at Dept of Artificial Intelligence Application, Hanyang University, Machine Learning Lab(<br/>
+B.S. at Dept of Applied Statistics and Computer Science(double major), Konkuk University, Seoul, South Korea<br/>
 Live in Seoul, South Korea <br>  
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsoyeongsohn&count_bg=%237575EB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com#) <br>
